@@ -62,4 +62,4 @@ Asura/
 - The signaling logic can be extended in `server.js` for more advanced scenarios.
 
 ## License
-This project is provided as-is for educational and personal use. 
+This project is provided as-is for educational and personal use. <!-- chore: add .gitignore entries for node_modules [2026-06-03] -->
