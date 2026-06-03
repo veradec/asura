@@ -63,3 +63,4 @@ Asura/
 
 ## License
 This project is provided as-is for educational and personal use. <!-- chore: add .gitignore entries for node_modules [2026-06-03] -->
+<!-- fix: correct port binding in server.js [2026-06-03] -->
