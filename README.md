@@ -66,3 +66,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- fix: correct port binding in server.js [2026-06-03] -->
 <!-- feat: add basic health check endpoint [2026-06-06] -->
 <!-- refactor: move route handlers into separate file [2026-06-09] -->
+<!-- fix: handle missing env vars with defaults [2026-06-09] -->
