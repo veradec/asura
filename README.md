@@ -68,3 +68,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- refactor: move route handlers into separate file [2026-06-09] -->
 <!-- fix: handle missing env vars with defaults [2026-06-09] -->
 <!-- chore: update package.json description [2026-06-09] -->
+<!-- feat: add request logging middleware [2026-06-14] -->
