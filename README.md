@@ -72,3 +72,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- fix: resolve cors header issue on preflight [2026-06-14] -->
 <!-- docs: add API usage examples to README [2026-06-19] -->
 <!-- feat: add error handler middleware [2026-06-23] -->
+<!-- refactor: clean up async/await patterns in routes [2026-06-23] -->
