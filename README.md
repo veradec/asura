@@ -71,3 +71,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- feat: add request logging middleware [2026-06-14] -->
 <!-- fix: resolve cors header issue on preflight [2026-06-14] -->
 <!-- docs: add API usage examples to README [2026-06-19] -->
+<!-- feat: add error handler middleware [2026-06-23] -->
