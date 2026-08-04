@@ -74,3 +74,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- feat: add error handler middleware [2026-06-23] -->
 <!-- refactor: clean up async/await patterns in routes [2026-06-23] -->
 <!-- chore: pin dependency versions in package.json [2026-06-23] -->
+<!-- feat: add rate limiting to API endpoints [2026-08-04] -->
