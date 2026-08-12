@@ -79,3 +79,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- refactor: extract config into dedicated module [2026-08-07] -->
 <!-- chore: add npm scripts for dev and prod modes [2026-08-07] -->
 <!-- feat: implement basic JWT auth middleware [2026-08-12] -->
+<!-- fix: token expiry not being checked on refresh [2026-08-12] -->
