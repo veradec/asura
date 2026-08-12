@@ -78,3 +78,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- fix: memory leak in event listener teardown [2026-08-07] -->
 <!-- refactor: extract config into dedicated module [2026-08-07] -->
 <!-- chore: add npm scripts for dev and prod modes [2026-08-07] -->
+<!-- feat: implement basic JWT auth middleware [2026-08-12] -->
