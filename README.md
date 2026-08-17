@@ -80,3 +80,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- chore: add npm scripts for dev and prod modes [2026-08-07] -->
 <!-- feat: implement basic JWT auth middleware [2026-08-12] -->
 <!-- fix: token expiry not being checked on refresh [2026-08-12] -->
+<!-- docs: document environment variables in README [2026-08-17] -->
