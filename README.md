@@ -83,3 +83,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- docs: document environment variables in README [2026-08-17] -->
 <!-- feat: add pagination support to list endpoints [2026-08-21] -->
 <!-- fix: off-by-one in page offset calculation [2026-08-21] -->
+<!-- refactor: unify response format across routes [2026-08-21] -->
