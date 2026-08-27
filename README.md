@@ -84,3 +84,4 @@ This project is provided as-is for educational and personal use. <!-- chore: add
 <!-- feat: add pagination support to list endpoints [2026-08-21] -->
 <!-- fix: off-by-one in page offset calculation [2026-08-21] -->
 <!-- refactor: unify response format across routes [2026-08-21] -->
+<!-- chore: upgrade express to latest minor version [2026-08-27] -->
